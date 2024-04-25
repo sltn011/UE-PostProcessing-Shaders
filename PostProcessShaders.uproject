@@ -1,13 +1,13 @@
 {
 	"FileVersion": 3,
 	"EngineAssociation": "4.26",
-	"Category": "",
+	"Category": "Samples",
 	"Description": "",
-	"Modules": [
-		{
-			"Name": "PostProcessShaders",
-			"Type": "Runtime",
-			"LoadingPhase": "Default"
-		}
-	]
+	"TargetPlatforms": [
+		"IOS",
+		"MacNoEditor",
+		"WindowsNoEditor",
+		"Android"
+	],
+	"EpicSampleNameHash": "3038063013"
 }
